@@ -14,7 +14,7 @@ public class videooutro {
             typeWriter("CONNECTION LOST.", 65);   // 75 ms per letter
             typeWriter("   ", 150);
             Thread.sleep(1000);
-            typeWriter("Student [MATTEA ISLEY] has logged off.", 65);
+            typeWriter("Student [MATTEA ISLEY] [9447] has logged off.", 65);
             typeWriter("   ", 150);
             Thread.sleep(1000);
             typeWriter("CONNECTION TERMINATED", 65);
